@@ -98,4 +98,3 @@
 <s> <s> i don't care how much it costs </s> </s>
 <s> <s> i intend to spend less than ten dollar  </s> </s>
 <s> <s> i like a cheap place  </s> </s>
-
